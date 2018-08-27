@@ -28,5 +28,11 @@ sudo apt install pcsc-tools
 pcsc_scan
 ```
 https://www.howtoinstall.co/en/ubuntu/xenial/pcscd
+
 https://www.howtoinstall.co/en/ubuntu/xenial/opensc
+
 https://github.com/OpenSC/OpenSC/wiki/Quick-Start-with-OpenSC
+
+```
+sudo apt-get install python3-pyscard
+```
