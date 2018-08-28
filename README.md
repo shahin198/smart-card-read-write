@@ -36,3 +36,4 @@ https://github.com/OpenSC/OpenSC/wiki/Quick-Start-with-OpenSC
 ```
 sudo apt-get install python3-pyscard
 ```
+https://pyscard.sourceforge.io/epydoc/index.html
