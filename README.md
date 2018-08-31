@@ -56,3 +56,5 @@ http://www.idvisionme.com/wp-content/uploads/2016/02/REF-ACR38x-CCID-6.05.pdf
 
 https://www.horter.de/doku/sle4432424041.pdf
 
+# Windows driver
+https://www.springcard.com/en/download/find/file/sdd480
