@@ -58,3 +58,5 @@ https://www.horter.de/doku/sle4432424041.pdf
 
 # Windows driver
 https://www.springcard.com/en/download/find/file/sdd480
+pip install pyscard
+https://simpletutorials.com/c/2130/Installing%20SWIG%20on%20Windows
