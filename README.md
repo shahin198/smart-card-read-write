@@ -37,6 +37,10 @@ https://github.com/OpenSC/OpenSC/wiki/Quick-Start-with-OpenSC
 sudo apt-get install python3-pyscard
 ```
 https://pyscard.sourceforge.io/user-guide.html
+# if do not install tkinter
+```
+sudo apt-get install python3-tk
+```
 
 https://pyscard.sourceforge.io/epydoc/index.html
 
